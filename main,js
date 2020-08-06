@@ -1,0 +1,11 @@
+// selector
+const container = document.querySelector('counter')
+const buttonsDiv = document.querySelector('buttons')
+const secInput = document.getElementById('seconds')
+
+// variables
+var seconds;
+var remseconds;
+var minutes;
+var toCount = false;
+
